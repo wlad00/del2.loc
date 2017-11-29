@@ -11,6 +11,11 @@ class User2 extends Authenticatable
 
     /**
      * The attributes that are mass assignable.
+     * The attributes that are mass assignable.
+     * The attributes that are mass assignable.
+     * The attributes that are mass assignable.
+     * The attributes that are mass assignable.
+     * The attributes that are mass assignable.
      *
      * @var array
      */
@@ -20,7 +25,18 @@ class User2 extends Authenticatable
 
     /**
      * The attributes that should be hidden for arrays.
+     * The attributes that should be hidden for arrays.
+     * The attributes that should be hidden for arrays.
+     * The attributes that should be hidden for arrays.
+     * The attributes that should be hidden for arrays.
+     * The attributes that should be hidden for arrays.
+     * The attributes that should be hidden for arrays.
      *
+     * @var array
+     * @var array
+     * @var array
+     * @var array
+     * @var array
      * @var array
      */
     protected $hidden = [
